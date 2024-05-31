@@ -53,7 +53,7 @@ import { ContainerComponent } from './container.component';
         class="text-on-tertiary bg-tertiary rounded-md"
       />
       <app-container
-        bg="bg-error-tertiary"
+        bg="bg-tertiary-container"
         color="text-on-tertiary-container"
         class="text-on-tertiary-container bg-tertiary-container rounded-md"
       />
